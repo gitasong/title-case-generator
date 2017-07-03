@@ -1,0 +1,3 @@
+The program should title case a single word.
+
+The program should title case a multi-word sentence.
